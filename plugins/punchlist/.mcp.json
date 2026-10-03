@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "punchlist": {
+      "type": "http",
+      "url": "https://pkytkidrvgydqsdnoabw.supabase.co/functions/v1/punchlist-mcp"
+    }
+  }
+}
