@@ -1,0 +1,24 @@
+{
+  "name": "punchlist",
+  "owner": {
+    "name": "DENT Studios"
+  },
+  "metadata": {
+    "description": "Punchlist for Claude Code: your boards, their rules and the gate that checks your agent's work.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "punchlist",
+      "source": "./plugins/punchlist",
+      "description": "Connects Claude Code to Punchlist by OAuth and teaches it to work a board: brief first, read the rules, and treat a refusal as the list of what is missing.",
+      "version": "1.0.0",
+      "author": {
+        "name": "DENT Studios"
+      },
+      "homepage": "https://punchlistio.com",
+      "category": "productivity",
+      "keywords": ["punchlist", "kanban", "mcp", "gate", "verification"]
+    }
+  ]
+}
