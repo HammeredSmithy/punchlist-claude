@@ -1,0 +1,10 @@
+{
+  "name": "punchlist",
+  "version": "1.0.0",
+  "description": "Connects Claude Code to Punchlist by OAuth and teaches it to work a board: brief first, read the rules, and treat a refusal as the list of what is missing.",
+  "author": {
+    "name": "DENT Studios"
+  },
+  "homepage": "https://punchlistio.com",
+  "keywords": ["punchlist", "kanban", "mcp", "gate", "verification"]
+}
